@@ -32,6 +32,7 @@ export default function Nav() {
                     <Link href="/accordion">Accordion</Link>
                     <Link href="/badge">Badge</Link>
                     <Link href="/breadcrumb">Breadcrumb</Link>
+                    <Link href="/datepicker">Datepicker</Link>
                     <Link href="/drawer">Drawer</Link>
                     <Link href="/gradient">Gradient</Link>
                     <Link href="/icons">Icons</Link>
